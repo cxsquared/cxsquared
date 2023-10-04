@@ -6,7 +6,9 @@ You can find some of my projects, tutorials, and blog posts on [codyclaborn.me](
 
 ## &#x1f4c8; GitHub Stats
 
-[![Cxsquared's GitHub stats](https://github-readme-stats.vercel.app/api?username=cxsquared)](https://github.com/cxsquared/cxsquared)
+[![Cxsquared's GitHub stats](https://github-readme-stats.vercel.app/api?username=cxsquared&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxsquared&show_icons=true&theme=tokyonight&layout=compact&exclude_repo=portfolio-v3)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **cxsquared/cxsquared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
