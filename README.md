@@ -2,7 +2,7 @@ Hello! My name is Cody and I'm a Software Developer from Indiana.
 
 You'll mostly find random game dev related things here.
 
-You can find some of my projects, tutorials, and blog posts on [codyclaobrn.me](https://codyclaborn.me)
+You can find some of my projects, tutorials, and blog posts on [codyclaborn.me](https://codyclaborn.me)
 
 ## &#x1f4c8; GitHub Stats
 
