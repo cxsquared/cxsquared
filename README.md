@@ -2,8 +2,6 @@ Hello! My name is Cody and I'm a Software Developer from Indiana.
 
 You'll mostly find random game dev related things here.
 
-You can find some of my projects, tutorials, and blog posts on [codyclaborn.me](https://codyclaborn.me)
-
 ## &#x1f4c8; GitHub Stats
 
 [![Cxsquared's GitHub stats](https://github-readme-stats.vercel.app/api?username=cxsquared&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
